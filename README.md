@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/akki251/testimonials-grid-section-main)
+- Solution URL: [Here is my code for this challenge](https://github.com/akki251/testimonials-grid-section-main)
 
 ### Built with
 
